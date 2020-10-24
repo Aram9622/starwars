@@ -1,0 +1,19 @@
+.error404 {
+    margin: 50px auto;
+    padding: 10px;
+    text-align: center;
+    
+}
+.error-title {
+    color: #b86117;
+    font-size: 50px;
+}
+.or {
+    color: #b86117;
+    font-size: 30px;
+    display: block
+}
+.error-desc {
+    color: #b86117;
+    font-size: 50px;
+}
